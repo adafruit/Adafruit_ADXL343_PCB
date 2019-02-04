@@ -1,4 +1,4 @@
-Adafruit_ADXL343_PCB
+# Adafruit_ADXL343_PCB
 
 PCB files for Adafruit ADXL343 sensor breakout
 
